@@ -9,11 +9,11 @@ Welcome to my GitHub profile! I'm an innovative full-stack developer driven by c
 
 Feel free to check out my work or get in touch:
 
-- 💻 [Portfolio](https://upekshaip.com)
-- 📧 [Email](mailto:me@upekshaip.com)
-- 👨‍💻 [Google Developer Profile](https://g.dev/upekshaip)
-- 💼 [LinkedIn](https://linkedin.com/in/upekshaip)
-- ☕ [Buy Me a Coffee](https://www.buymeacoffee.com/upekshaip)
+  <!-- 💻 [Portfolio](https://upekshaip.com)-->
+- 📧 [Email](mailto:naveentype2001@gmail.com)
+- 👨‍💻 [Google Cloud Profile](https://www.cloudskillsboost.google/public_profiles/c6927376-d9fe-4656-bce4-c97ef5b957f3)
+- 💼 [LinkedIn](linkedin.com/in/naveen-kavindu-dilshan-b92045320)
+<!-- ☕ [Buy Me a Coffee](https://www.buymeacoffee.com/upekshaip)-->
 
 ---
 
