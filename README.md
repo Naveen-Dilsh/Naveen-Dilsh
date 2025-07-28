@@ -11,7 +11,7 @@ Feel free to check out my work or get in touch:
   <!-- 💻 [Portfolio](https://upekshaip.com)-->
 - 📧 [Email](mailto:naveentype2001@gmail.com)
 - 👨‍💻 [Google Cloud Profile](https://www.cloudskillsboost.google/public_profiles/c6927376-d9fe-4656-bce4-c97ef5b957f3)
-- 💼 [LinkedIn](https://linkedin.com/in/naveendilsh)
+- 💼 [LinkedIn](https://linkedin.com/in/NaveenDilsh)
 <!-- ☕ [Buy Me a Coffee](https://www.buymeacoffee.com/upekshaip)-->
 
 ---
