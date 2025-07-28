@@ -1,4 +1,3 @@
-<img align="center" alt="banner" src="img/upekshaip_banner_long.png">
 
 # Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30">, I'm <a href="https://github.com/Naveen-Dilsh" target="_blank" rel="noreferrer">Naveen Kavindu</a>
 </h1>
@@ -58,7 +57,7 @@ I'm always open to collaborating on new projects, contributing to open-source, o
 When I’m not coding, you’ll find me sketching, exploring the outdoors, or diving into the latest tech trends. I'm always eager to learn and grow both personally and professionally.
 
 ---
-
+<img align="center" alt="banner" src="img/upekshaip_banner_long.png">
 ### Support My Work
 
 If you enjoy my work, you can support me by buying me a coffee! Your support helps me continue creating and contributing to amazing projects.
