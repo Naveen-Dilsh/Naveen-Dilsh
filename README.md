@@ -4,8 +4,7 @@
 </h1>
 
 
-Welcome to my GitHub profile! I'm a passionate software developer, dedicated to creating efficient, scalable, and user-friendly applications. Whether it's building full-stack web applications, contributing to open-source projects, or exploring the latest technologies, I’m always excited to solve real-world problems with code.
-
+Welcome to my GitHub profile! I'm an innovative full-stack developer driven by continuous learning and technological advancement. Currently deepening my expertise in Machine Learning and Data Science to bridge the gap between traditional development and intelligent systems. I believe great products come from combining solid fundamentals with continuous innovation and an unwavering commitment to learning.
 ## 🔗 Connect with Me
 
 Feel free to check out my work or get in touch:
