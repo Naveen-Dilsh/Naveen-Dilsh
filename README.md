@@ -1,6 +1,8 @@
 <img align="center" alt="banner" src="img/upekshaip_banner_long.png">
 
-# Hi there, I'm Upeksha Indeewara 👋
+# Hi there <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30">, I'm <a href="https://github.com/Naveen-Dilsh" target="_blank" rel="noreferrer">Naveen Kavindu</a>
+</h1>
+
 
 Welcome to my GitHub profile! I'm a passionate software developer, dedicated to creating efficient, scalable, and user-friendly applications. Whether it's building full-stack web applications, contributing to open-source projects, or exploring the latest technologies, I’m always excited to solve real-world problems with code.
 
