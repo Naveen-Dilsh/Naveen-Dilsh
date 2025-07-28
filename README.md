@@ -49,11 +49,11 @@ Feel free to check out my work or get in touch:
 
 I'm always open to collaborating on new projects, contributing to open-source, or learning from other developers. If you have an idea or project in mind, feel free to reach out to me!
 
-📧 **Email:** [me@upekshaip.com](mailto:upekshaip@gmail.com)
+📧 **Email:** [me@upekshaip.com](mailto:naveentype2001@gmail.com)
 
 ---
 
-## 💡 Fun Fact
+<!--## 💡 Fun Fact
 
 When I’m not coding, you’ll find me sketching, exploring the outdoors, or diving into the latest tech trends. I'm always eager to learn and grow both personally and professionally.
 
@@ -65,4 +65,4 @@ If you enjoy my work, you can support me by buying me a coffee! Your support hel
 
 <a href="https://www.buymeacoffee.com/upekshaip" target="_blank">
   <img src="https://upekshaip.github.io/images/bmc.svg" alt="Buy me a coffee" width="150" style="border-radius: 8px;">
-</a>
+</a> -->
