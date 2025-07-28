@@ -50,7 +50,9 @@ I'm always open to collaborating on new projects, contributing to open-source, o
 
 📧 **Email:** [naveentype2001@gmail.com](mailto:naveentype2001@gmail.com)
 
----
+&nbsp;&nbsp;&nbsp;&nbsp;<p align="left"><img src="https://komarev.com/ghpvc/?username=Naveen-Dilsh&label=Profile%20views&color=brightgreen&style=plastic" alt="pabasara's profile views" /> <img src='https://c.tenor.com/--AQwe1rA8EAAAAi/batman-pixel-art.gif' alt="batman" width="6%">
+<p/>
+
 
 <!--## 💡 Fun Fact
 
