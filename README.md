@@ -49,7 +49,7 @@ Feel free to check out my work or get in touch:
 
 I'm always open to collaborating on new projects, contributing to open-source, or learning from other developers. If you have an idea or project in mind, feel free to reach out to me!
 
-📧 **Email:** [me@upekshaip.com](mailto:naveentype2001@gmail.com)
+📧 **Email:** [naveentype2001@gmail.com](mailto:naveentype2001@gmail.com)
 
 ---
 
