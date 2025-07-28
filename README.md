@@ -21,13 +21,12 @@ Feel free to check out my work or get in touch:
 
 | **Category**             | **Technologies & Skills**                                                                          |
 | ------------------------ | -------------------------------------------------------------------------------------------------- |
-| **Languages 🌐**         | JavaScript, TypeScript, Python, PHP, Java, C#, JSP, C++, C                                         |
-| **Frontend 🎨**          | React, Next.js, Tailwind CSS, Bootstrap, Qt                                                        |
-| **Backend 🔧**           | Node.js, Express, Firebase, .NET Web API, Django, Flask                                            |
-| **Databases 🗄️**         | Firebase Realtime Database, MongoDB, MySQL                                                         |
-| **Tools & Platforms 🛠️** | Git, Docker, Heroku, Vercel, Figma, AWS, Google Cloud Platform, Microsoft Azure, Postman, Insomnia |
-| **DevOps 🚀**            | Jenkins, Kubernetes, Terraform                                                                     |
-| **Testing 🧪**           | Jest, Mocha, Selenium                                                                              |
+| **Languages 🌐**         | JavaScript, TypeScript, Python, Java, C#, JSP, C                                                   |
+| **Frontend 🎨**          | React, Next.js, Tailwind CSS, Bootstrap                                                            |
+| **Backend 🔧**           | Node.js, Express, Firebase, .NET Web API                                                           |
+| **Databases 🗄️**         | Firebase Realtime Database, MongoDB, MySQL, SqlServer                                               |
+| **Tools & Platforms 🛠️** | Git, Docker, Vercel, Figma, Google Cloud Platform, Postman                                         |
+| **DevOps 🚀**            | Kubernetes, Terraform                                                                              |
 | **Other 🌟**             | GraphQL, REST APIs, WebSockets                                                                     |
 
 ---
@@ -36,7 +35,7 @@ Feel free to check out my work or get in touch:
 
 <div align="center">
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=upekshaip&theme=chartreuse-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Naveen-Dilsh&theme=chartreuse-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 <br>
 ![upekshaip's GitHub stats](https://github-readme-stats.vercel.app/api?username=upekshaip&theme=chartreuse-dark&hide_border=true&show_icons=true)  
 <br>
