@@ -18,6 +18,10 @@ Feel free to check out my work or get in touch:
 
 ## 🛠️ Technologies & Skills
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 | **Category**             | **Technologies & Skills**                                                                          |
 | ------------------------ | -------------------------------------------------------------------------------------------------- |
 | **Languages 🌐**         | JavaScript, TypeScript, Python, Java, C#, JSP, C                                                   |
@@ -28,6 +32,18 @@ Feel free to check out my work or get in touch:
 | **DevOps 🚀**            | Kubernetes, Terraform                                                                              |
 | **Other 🌟**             | GraphQL, REST APIs, WebSockets                                                                     |
 
+</td>
+<td width="50%" valign="top">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="right" alt="Skills Animation" src="./Skills_Animation_White.gif" width="100%">
+</picture>
+
+</td>
+</tr>
+</table>
 ---
 
 ## 📊 GitHub Stats & Activity
