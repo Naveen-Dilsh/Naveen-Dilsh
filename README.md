@@ -44,6 +44,7 @@ Feel free to check out my work or get in touch:
 </td>
 </tr>
 </table>
+
 ---
 
 ## 📊 GitHub Stats & Activity
