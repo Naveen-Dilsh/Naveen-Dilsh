@@ -33,7 +33,7 @@ Feel free to check out my work or get in touch:
 | **Other 🌟**             | GraphQL, REST APIs, WebSockets                                                                     |
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="bottom">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
