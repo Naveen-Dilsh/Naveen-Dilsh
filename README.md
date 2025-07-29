@@ -19,7 +19,7 @@ Feel free to check out my work or get in touch:
 ## 🛠️ Technologies & Skills
 
 <table>
-
+<tr>
 <td width="50%" valign="top">
 
 | **Category**             | **Technologies & Skills**                                                                          |
@@ -42,7 +42,7 @@ Feel free to check out my work or get in touch:
 </picture>
 
 </td>
-
+</tr>
 </table>
 
 ---
